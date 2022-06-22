@@ -1,0 +1,91 @@
+.container__vagas {
+    padding: 96px 0px 96px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: #FFFFFF;
+}
+
+.div__vagas-abertas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.titulo__vagas {
+
+   color: #8E2424;
+   font-size: 14px;
+   font-weight: 500;
+   line-height: 20px;
+   text-align: center;
+
+   background-color: rgba(142, 36, 36, 0.05);
+   border-radius: 16px;
+   padding: 4px 12px;
+   margin-bottom: 16px;
+}
+
+.subtitulo__vagas {
+    color: #101828;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    margin-bottom: 16px;
+}
+
+.texto__vagas {
+    color: #667085;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 64px;
+}
+
+
+.div__vagas-disponiveis{
+    max-width: 768px;
+
+}
+
+.titulo__areas {
+    color: #101828;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 32px;
+    margin-top: 64px;
+}
+
+.quadro__vagas {
+    width: 768px;
+    background: #FFFFFF;
+    border: 1px solid #EAECF0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    margin-bottom: 24px;
+
+    padding: 24px 24px 28px;
+}
+
+.vaga__disponivel {
+    color: #101828;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 32px;
+}
+
+.vaga__disponivel--texto {
+    color: #667085;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline;
+    margin-right: 24px;
+}
