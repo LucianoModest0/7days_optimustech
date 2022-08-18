@@ -4,4 +4,4 @@
 
 > Tema: HTML e CSS
 
-> O curso pode ser acessado em:  [Challenge HTML e CSS](https://7daysofcode.io/matricula/html-css)
+> O desafio pode ser acessado em:  [Challenge HTML e CSS](https://7daysofcode.io/matricula/html-css)
